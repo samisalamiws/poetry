@@ -48,7 +48,7 @@ packaging = "^20.4"
 pexpect = "^4.7.0"
 pkginfo = "^1.5"
 requests = "^2.18"
-requests-toolbelt = "^0.9.1"
+requests-toolbelt = "^0.10.0"
 shellingham = "^1.1"
 tomlkit = ">=0.7.0,<1.0.0"
 # exclude 20.4.5 - 20.4.6 due to https://github.com/pypa/pip/issues/9953
